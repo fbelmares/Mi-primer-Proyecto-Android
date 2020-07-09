@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">60dp</dimen>
+    <dimen name="activity_vertical_margin">60dp</dimen>
+    <dimen name="titulo_horizontal">10dp</dimen>
+    <dimen name="titulo_vertical">10dp</dimen>
+    <dimen name="boton_horizontal">10dp</dimen>
+    <dimen name="boton_vertical">40dp</dimen>
+    <dimen name="boton_vertical_bottom">200dp</dimen>
+</resources>
